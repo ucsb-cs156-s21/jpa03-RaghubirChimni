@@ -7,7 +7,7 @@ On Heroku: https://rchimni-cgaucho.herokuapp.com
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-RaghubirChimni
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-RaghubirChimni)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-RaghubirChimni/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-RaghubirChimni)
 
 
 ## Integrations
